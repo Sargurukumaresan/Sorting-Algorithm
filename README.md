@@ -72,14 +72,16 @@ print(value)
 ## Output:
 ### For Program 1
 
-![1](https://user-images.githubusercontent.com/118704873/214081773-4ce986a5-18ea-4b5b-87e0-b58435652901.png)
+![1](./123.png)
 
 
 
 
 ### For Program 2
 
-![2](https://user-images.githubusercontent.com/118704873/214081881-870d9d56-b4a0-4ec4-b06f-21b47a15ee2d.png)
+![2](./456.png)
+
+
 
 
 
